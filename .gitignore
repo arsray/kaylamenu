@@ -16,3 +16,6 @@ local.properties
 
 # 菜谱数据库（含实际数据，不入库）
 app/src/main/assets/recipes.db
+scripts/data/
+scripts/chrome_profile/
+scripts/scraper.log
